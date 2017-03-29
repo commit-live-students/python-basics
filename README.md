@@ -1,5 +1,4 @@
-
-#Python Functions
+# Python Functions
 
 #Objectives:
 + Understand N.I.C.O (Name, Input, Code, Output)
