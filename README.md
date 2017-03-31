@@ -1,5 +1,3 @@
-
-
 # Python Functions
 
 #Objectives:
