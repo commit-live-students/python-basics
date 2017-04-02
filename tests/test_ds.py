@@ -1,7 +1,7 @@
 import ast
 import unittest
 
-filename = '../datascience.py'
+filename = 'datascience.py'
 tree = ast.parse(''.join(open(filename)))
 
 # exec(compile(tree, filename="<ast>", mode="exec"))
